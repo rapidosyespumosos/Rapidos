@@ -9,6 +9,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="estilo.css">
 </head>
+
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -75,69 +76,78 @@
                         es: <b>@gmail.com</b> o tambien al
                         instagram:<a
                             href="https://www.instagram.com/rapidosyespumosos.limpieza/">https://www.instagram.com/rapidosyespumosos.limpieza/</a></b>
-                        <b>
-                            <center><a href="https://www.instagram.com/rapidosyespumosos.limpieza/"><img
-                                        src="../img/qrespumoso.PNG" height="180"></a></center>
-
+                        <br>
+                        <hr><br>
+                        <center><a href="https://www.instagram.com/rapidosyespumosos.limpieza/"><img
+                                    src="../img/qrespumoso.PNG" height="180"></a></center>
                     </p>
+                    <br>
+                    <hr><br>
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-3 bordes">
-            <h1 class="text-center">FormateoPC</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
-                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
-                dolorum tenetur?</p>
-            <img src="../img/formateopc.jpeg" alt="" class="w-100" height="250">
-            <br><br>
-            <center><button class="btn btn-dark" type="button">Enviar</button></center>
-        </div>
-        <div class="col-3 bordes">
-            <h1 text-center>Office licencia</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
-                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
-                dolorum tenetur?</p>
-            <img src="../img/office.jpeg" alt="" class="w-100" height="250">
-            <br><br>
-            <center><button class="btn btn-dark" type="button">Enviar</button></center>
-        </div>
-        <div class="col-3 bordes">
-            <h1 text-center>Optimisar y limpiar virus</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
-                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
-                dolorum tenetur?</p>
-            <img src="../img/optimisar.jpeg" alt="" class="w-100" height="250">
-            <br><br>
-            <center><button class="btn btn-dark" type="button">Enviar</button></center>
-        </div>
-        <div class="col-3 bordes">
-            <h1 class="text-center">Limpieza interna</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
-                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
-                dolorum tenetur?</p>
-            <img src="../img/limpiesaint.jpeg" alt="" class="w-100" height="250">
-            <br><br>
-            <center><button class="btn btn-dark" type="button">Enviar</button></center>
-        </div>
-        <div class="card" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                    card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
-        </div>
-    </div>
+                <div class="row">
+                    <div class="col-3 bordes">
+                        <h1 class="text-center">FormateoPC</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus
+                            iure ipsum
+                            deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor!
+                            Pariatur ratione
+                            dolorum tenetur?</p>
+                        <img src="../img/formateopc.jpeg" alt="" class="w-100" height="250">
+                        <br><br>
+                        <center><button class="btn btn-dark" type="button">Enviar</button></center>
+                    </div>
+                    <div class="col-3 bordes">
+                        <h1 text-center>Office licencia</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus
+                            iure ipsum
+                            deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor!
+                            Pariatur ratione
+                            dolorum tenetur?</p>
+                        <img src="../img/office.jpeg" alt="" class="w-100" height="250">
+                        <br><br>
+                        <center><button class="btn btn-dark" type="button">Enviar</button></center>
+                    </div>
+                    <div class="col-3 bordes">
+                        <h1 text-center>Optimisar y limpiar virus</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus
+                            iure ipsum
+                            deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor!
+                            Pariatur ratione
+                            dolorum tenetur?</p>
+                        <img src="../img/optimisar.jpeg" alt="" class="w-100" height="250">
+                        <br><br>
+                        <center><button class="btn btn-dark" type="button">Enviar</button></center>
+                    </div>
+                    <div class="col-3 bordes">
+                        <h1 class="text-center">Limpieza interna</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus
+                            iure ipsum
+                            deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor!
+                            Pariatur ratione
+                            dolorum tenetur?</p>
+                        <img src="../img/limpiesaint.jpeg" alt="" class="w-100" height="250">
+                        <br><br>
+                        <center><button class="btn btn-dark" type="button">Enviar</button></center>
+                    </div>
+                    <div class="card" style="width: 18rem;">
+                        <img src="..." class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the
+                                card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+                
 
 
 
 
-   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-        crossorigin="anonymous"></script>
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+                    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+                    crossorigin="anonymous"></script>
 </body>
 
 </html>
