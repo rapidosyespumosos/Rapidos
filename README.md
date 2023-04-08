@@ -49,7 +49,7 @@
             </div>
         </div>
     </nav>
-    <b></b>
+
     <br>
     <hr><br>
 
@@ -90,7 +90,7 @@
             </div>
         </div>
     </div>
-    <div class="row bg-light">
+    <div class="row">
         <div class="col-3 bordes">
             <h1 class="text-center">FormateoPC</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
@@ -142,7 +142,7 @@
 
 
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
 </body>
