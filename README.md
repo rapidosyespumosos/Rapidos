@@ -48,9 +48,9 @@
     <br>
     <hr><br>
 
-    <div class="conteiner">
+    <div class="row">
         <div class="col-6">
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="455">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p6.jpeg" alt="" class="w-100" height="455">
         </div>
         <div class="col-6">
             <h1 class="text-center">RapidosyEspumosos</h1>
@@ -69,55 +69,55 @@
                     </p>
                 </div>
                 <br><hr><br>
-                <div class="col-3">
+                <div class="col-6">
                     <p>Mas informarcion contactese al fono: <b>+56 9 8131 2944</b> o contactarse al correo actibo que
                         es: <b>@gmail.com</b> o tambien al
                         instagram:<a href="https://www.instagram.com/rapidosyespumosos.limpieza/">https://www.instagram.com/rapidosyespumosos.limpieza/</a></b>
                         <b><center><a href="https://www.instagram.com/rapidosyespumosos.limpieza/"><img
-                                        src="../img/qrespumoso.PNG" height="180"></a></center></p                  
+                                        src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/qrespumoso.PNG" height="180"></a></center></p                  
                 </div>
             </div>
         </div>
     </div>
 
     <div class="row bg-light">
-        <div class="col-3 gx-15 bordes">
+        <div class="col-6 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p.jpg" alt="" class="w-100" height="250">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg" alt="" class="w-100" height="250">
             <br><br>
             <center><button class="btn btn-dark" type="button">Precio</button></center>
         </div>
-        <div class="col-3 gx-15 bordes">
+        <div class="col-6 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p2.jpeg" alt="" class="w-100" height="250">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p2.jpeg" alt="" class="w-100" height="250">
             <br><br>
             <center><button class="btn btn-dark" type="button">Precio</button></center>
         </div>
-        <div class="col-3 gx-15 bordes">
+        <div class="col-6 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="250">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p6.jpeg" alt="" class="w-100" height="250">
             <br><br>
             <center><button class="btn btn-dark" type="button">Precio</button></center>
         </div>
-        <div class="col-3 gx-15 bordes">
+        <div class="col-6 gx-15 bordes">
             <h1 class="text-center">Lavado autos exterior</h1>
             <p>Lavado de autos completos con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p7.jpeg" alt="" class="w-100" height="180">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg" alt="" class="w-100" height="180">
             <br><br>
             <center><button class="btn btn-dark" type="button">Precio</button></center>
             
         </div>
-        <div class="col-3 gx-15 bordes">
+        <div class="col-6 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p8.jpeg" alt="" class="w-100" height="250">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg" alt="" class="w-100" height="250">
             <br><br>
             <center><button class="btn btn-dark" type="button">Precio</button></center>
         </div>
-        <div class="col-3 gx-15 bordes">
+        <div class="col-6 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
             <img src="../img/p6.jpeg" alt="" class="w-100" height="250">
