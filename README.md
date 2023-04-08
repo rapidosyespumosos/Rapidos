@@ -49,7 +49,7 @@
     <br>
     <hr><br>
     <div class="row bg-light">
-        <div class="col-4 gx-15 bordes">
+        <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p2.jpeg" alt="" class="w-100" height="280">
@@ -59,7 +59,7 @@
                 <br><br>
 
             <div class="row bg-light">
-        <div class="col-4 gx-15 bordes">
+        <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg" alt="" class="w-100" height="280">
@@ -68,7 +68,7 @@
                 <center><button class="btn btn-dark" type="button">Precio</button></center></a>
                 <br><br>
             
-        <div class="col-4 gx-15 bordes">
+        <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
             <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p11.PNG?raw=true" alt="" class="w-100" height="280">
@@ -78,7 +78,7 @@
                 <br><br>
 
         </div>
-        <div class="col-4 gx-15 bordes">
+        <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Lavado autos exterior</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg" alt="" class="w-100" height="280">
@@ -89,7 +89,7 @@
 
         </div>
         
-        <div class="col-4 gx-15 bordes">
+        <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Limpiesa interna vehiculo</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG" alt="" class="w-100" height="280">
@@ -99,7 +99,7 @@
                 <br><br>
         </div>
     </div>
-        <div class="col-4 gx-15 bordes">
+        <div class="col-3 gx-15 bordes">
             <h1 class="text-center">limpieza de auto</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg" alt="" class="w-100" height="280">
