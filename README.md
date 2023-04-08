@@ -65,7 +65,7 @@
                 </div>
                 <br>
                 <hr><br>
-                <div class="col-md-3 text-center">
+                <div class="col-lg-6 ">
                     <p>Pablo es en mecanico que empezo su pyme invirtiendo en activos necesarios para poder sostener
                         RapidosyEspumosos.
                         usando siempre los mejores implementos y herramientas para entregar un trabajo de calidad.</b>
@@ -73,7 +73,7 @@
                 </div>
                 <br>
                 <hr><br>
-                <div class="col-md-3 text-center">
+                <div class="col-lg-6">
                     <p>Mas informarcion contactese al fono: <b>+56 9 8131 2944</b> o contactarse al correo actibo que
                         es: <b>@gmail.com</b> o tambien al
                         instagram:<a
