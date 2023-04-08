@@ -65,7 +65,7 @@
                 </div>
                 <br>
                 <hr><br>
-                <div class="col-lg-6 ">
+                <div class="col-md-6 ">
                     <p>Pablo es en mecanico que empezo su pyme invirtiendo en activos necesarios para poder sostener
                         RapidosyEspumosos.
                         usando siempre los mejores implementos y herramientas para entregar un trabajo de calidad.</b>
@@ -73,7 +73,7 @@
                 </div>
                 <br>
                 <hr><br>
-                <div class="col-lg-6">
+                <div class="col-md-6">
                     <p>Mas informarcion contactese al fono: <b>+56 9 8131 2944</b> o contactarse al correo actibo que
                         es: <b>@gmail.com</b> o tambien al
                         instagram:<a
@@ -88,7 +88,7 @@
         </div>
 
         <div class="row bg-light">
-            <div class="col-lg-6 gx-15 bordes">
+            <div class="col-md-6 gx-15 bordes">
                 <h1 class="text-center">Tapiceria</h1>
                 <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg"
@@ -98,7 +98,7 @@
                     <center><button class="btn btn-dark" type="button">Precio</button></center>
                 </a>
             </div>
-            <div class="col-lg-6 gx-15 bordes">
+            <div class="col-md-6 gx-15 bordes">
                 <h1 class="text-center">Tapiceria</h1>
                 <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p2.jpeg"
@@ -108,7 +108,7 @@
                     <center><button class="btn btn-dark" type="button">Precio</button></center>
                 </a>
             </div>
-            <div class="col-lg-6 gx-15 bordes">
+            <div class="col-md-6 gx-15 bordes">
                 <h1 class="text-center">Tapiceria</h1>
                 <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p6.jpeg"
@@ -118,7 +118,7 @@
                     <center><button class="btn btn-dark" type="button">Precio</button></center>
                 </a>
             </div>
-            <div class="col-lg-6 gx-15 bordes">
+            <div class="col-md-6 gx-15 bordes">
                 <h1 class="text-center">Lavado autos exterior</h1>
                 <p>Lavado de autos completos con las herramientas de mas alta gamma para entregar un trabajo completo.
                 </p>
@@ -130,7 +130,7 @@
                 </a>
 
             </div>
-            <div class="col-lg-6 gx-15 bordes">
+            <div class="col-md-6 gx-15 bordes">
                 <h1 class="text-center">Tapiceria</h1>
                 <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg"
@@ -140,7 +140,7 @@
                     <center><button class="btn btn-dark" type="button">Precio</button></center>
                 </a>
             </div>
-            <div class="col-lg-6 gx-15 bordes">
+            <div class="col-md-6 gx-15 bordes">
                 <h1 class="text-center">Limpieza de auto</h1>
                 <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/e42570dc5a512c3971448f41b78c7a40dfda9da6/p3.PNG"
