@@ -52,12 +52,28 @@
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
-            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p2.jpeg"
-                alt="" class="w-100" height="250">
-                <a href="https://rapidosyespumosos.github.io/Precios/">
-                    <center><button class="btn btn-dark" type="button">Precio</button></center>
-                </a>
-            <br><br>
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg"
+                            class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p1.jpeg"
+                            class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
             <a href="https://rapidosyespumosos.github.io/Precios/">
                 <center><button class="btn btn-dark" type="button">Precio</button></center>
             </a>
@@ -68,10 +84,6 @@
                     <h3 class="text-center"></h3>
                     <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg"
                         alt="" class="w-100" height="250">
-                        <a href="https://rapidosyespumosos.github.io/Precios/">
-                            <center><button class="btn btn-dark" type="button">Precio</button></center>
-                        </a>
-                    <br><br>
                     <a href="https://rapidosyespumosos.github.io/Precios/">
                         <center><button class="btn btn-dark" type="button">Precio</button></center>
                     </a>
@@ -81,15 +93,10 @@
                         <h3 class="text-center"></h3>
                         <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p11.PNG?raw=true" alt=""
                             class="w-100" height="280">
-                            <a href="https://rapidosyespumosos.github.io/Precios/">
-                                <center><button class="btn btn-dark" type="button">Precio</button></center>
-                            </a>
-                        <br><br>
                         <a href="https://rapidosyespumosos.github.io/Precios/">
                             <center><button class="btn btn-dark" type="button">Precio</button></center>
                         </a>
                         <br><br>
-
                     </div>
                     <div class="col-3 gx-15 bordes">
                         <h1 class="text-center">Lavado autos exterior</h1>
@@ -109,10 +116,6 @@
                         <h3 class="text-center"></h3>
                         <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG"
                             alt="" class="w-100" height="250">
-                            <a href="https://rapidosyespumosos.github.io/Precios/">
-                        <center><button class="btn btn-dark" type="button">Precio</button></center>
-                    </a>
-                        <br><br>
                         <a href="https://rapidosyespumosos.github.io/Precios/">
                             <center><button class="btn btn-dark" type="button">Precio</button></center>
                         </a>
@@ -124,10 +127,6 @@
                     <h3 class="text-center"></h3>
                     <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
                         alt="" class="w-100" height="250">
-                        <br><hr><br>
-                        <a href="https://rapidosyespumosos.github.io/Precios/">
-                            <center><button class="btn btn-dark" type="button">Precio</button></center>
-                        </a>
                     <br><br>
                     <a href="https://rapidosyespumosos.github.io/Precios/">
                         <center><button class="btn btn-dark" type="button">Precio</button></center>
@@ -139,11 +138,11 @@
                             <h3 class="text-center"></h3>
                             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/2dd079c93e9f24b5833fee5b6542b948c9297d7d/p11.PNG"
                                 alt="" class="w-100" height="250">
-                            <br><hr><br>
+                            <br><br>
                             <a href="https://rapidosyespumosos.github.io/Precios/">
                                 <center><button class="btn btn-dark" type="button">Precio</button></center>
                             </a>
-                            <br><hr><br>
+                            <hr><br>
                         </div>
                     </div>
                 </div>
