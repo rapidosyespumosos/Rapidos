@@ -49,7 +49,7 @@
     <br>
     <hr><br>
 
-    <div class="row">
+    <div class="conteiner">
         <div class="col-md-3">
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p6.jpeg"
                 alt="" class="w-100" height="455">
