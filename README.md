@@ -12,7 +12,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="https://rapidosyespumosos.github.io/Rapidos/">RapidosyEspumosos</a>
+            <a class="navbar-brand" href="https://rapidosyespumosos.github.io/Rapidos">RapidosyEspumosos</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -23,11 +23,7 @@
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 espacio">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page"
-                            href="https://rapidosyespumosos.github.io/Rapidos/">Inicio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page"
-                            href="https://rapidosyespumosos.github.io/Rapidos/">Iniciar secion</a>
+                            href="https://rapidosyespumosos.github.io/Rapidos">Inicio</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -139,7 +135,7 @@
 
 
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
 </body>
