@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -80,9 +79,6 @@
             </div>
         </div>
     </div>
-
-    <br>
-    <hr><br>
 
     <div class="row bg-light">
         <div class="col-3 gx-15 bordes">
