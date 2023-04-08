@@ -9,7 +9,6 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="estilo.css">
 </head>
-
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -49,13 +48,12 @@
             </div>
         </div>
     </nav>
-
     <br>
     <hr><br>
-
     <div class="row">
         <div class="col-6">
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="455">
+            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
+                height="455">
         </div>
         <div class="col-6">
             <h1 class="text-center">RapidosyEspumosos</h1>
@@ -136,13 +134,12 @@
                 <a href="#" class="btn btn-primary">Go somewhere</a>
             </div>
         </div>
-
     </div>
 
 
 
 
-   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
 </body>
