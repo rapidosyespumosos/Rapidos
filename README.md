@@ -49,15 +49,15 @@
     <br>
     <hr><br>
 
-    <div class="conteiner">
+    <div class="row">
         <div class="col-md-3">
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p6.jpeg"
                 alt="" class="w-100" height="455">
         </div>
-        <div class="col-md-3">
+        <div class="col-md-6">
             <h1 class="text-center">RapidosyEspumosos</h1>
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-6">
                     <p><b>Nombre trabajador:</b> Pablo nicolas aranis.
                         <b>Edad:</b> 23 años.
                         Tecnico titulado en mecanica automotris.
