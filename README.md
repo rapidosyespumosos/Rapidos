@@ -116,7 +116,7 @@
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
-            <img src="../img/p2.jpeg" alt="" class="w-100" height="280">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/e42570dc5a512c3971448f41b78c7a40dfda9da6/p11.jpeg" alt="" class="w-100" height="280">
             <br><br>
             <a href="https://rapidosyespumosos.github.io/Precios/">
                 <center><button class="btn btn-dark" type="button">Precio</button></center></a>
@@ -126,28 +126,7 @@
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="280">
-            <br><br>
-            <a href="https://rapidosyespumosos.github.io/Precios/">
-                <center><button class="btn btn-dark" type="button">Precio</button></center></a>
-                <br><br>
-
-        </div>
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Lavado autos exterior</h1>
-            <h3 class="text-center"></h3>
-            <img src="../img/p7.jpeg" alt="" class="w-100" height="280">
-            <br><br>
-            <a href="https://rapidosyespumosos.github.io/Precios/">
-                <center><button class="btn btn-dark" type="button">Precio</button></center></a>
-                <br><br>
-
-        </div>
-        
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center"></h3>
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="280">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p2.jpeg" alt="" class="w-100" height="280">
             <br><br>
             <a href="https://rapidosyespumosos.github.io/Precios/">
                 <center><button class="btn btn-dark" type="button">Precio</button></center></a>
