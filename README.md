@@ -48,7 +48,7 @@
     <br>
     <hr><br>
 
-    <div class="row">
+    <div class="conteiner">
         <div class="col-6">
             <img src="../img/p6.jpeg" alt="" class="w-100" height="455">
         </div>
