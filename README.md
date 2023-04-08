@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -79,9 +79,7 @@
                         es: <b>@gmail.com</b> o tambien al
                         instagram:<a href="https://www.instagram.com/rapidosyespumosos.limpieza/">https://www.instagram.com/rapidosyespumosos.limpieza/</a></b>
                         <b><center><a href="https://www.instagram.com/rapidosyespumosos.limpieza/"><img
-                                        src="../img/qrespumoso.PNG" height="180"></a></center>
-
-                    </p>
+                                        src="../img/qrespumoso.PNG" height="180"></a></center></p                  
                 </div>
             </div>
         </div>
