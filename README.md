@@ -49,7 +49,7 @@
     <br>
     <hr><br>
     <div class="row bg-light">
-        <div class="col-3 gx-15 bordes">
+        <div class="col-md-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -79,7 +79,7 @@
             </a>
             <br><br>
             <div class="row bg-light">
-                <div class="col-3 gx-15 bordes">
+                <div class="col-md-3 gx-15 bordes">
                     <h1 class="text-center">Tapiceria</h1>
                     <h3 class="text-center"></h3>
                     <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg"
@@ -88,7 +88,7 @@
                         <center><button class="btn btn-dark" type="button">Precio</button></center>
                     </a>
                     <br><br>
-                    <div class="col-3 gx-15 bordes">
+                    <div class="col-md-3 gx-15 bordes">
                         <h1 class="text-center">Tapiceria</h1>
                         <h3 class="text-center"></h3>
                         <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p11.PNG?raw=true" alt=""
@@ -98,7 +98,7 @@
                         </a>
                         <br><br>
                     </div>
-                    <div class="col-3 gx-15 bordes">
+                    <div class="col-md-3 gx-15 bordes">
                         <h1 class="text-center">Lavado autos exterior</h1>
                         <h3 class="text-center"></h3>
                         <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
@@ -111,7 +111,7 @@
 
                     </div>
 
-                    <div class="col-3 gx-15 bordes">
+                    <div class="col-md-3 gx-15 bordes">
                         <h1 class="text-center">Limpiesa interna vehiculo</h1>
                         <h3 class="text-center"></h3>
                         <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG"
@@ -122,7 +122,7 @@
                         <br><br>
                     </div>
                 </div>
-                <div class="col-3 gx-15 bordes">
+                <div class="col-md-3 gx-15 bordes">
                     <h1 class="text-center">limpieza de auto</h1>
                     <h3 class="text-center"></h3>
                     <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
@@ -133,7 +133,7 @@
                     </a>
                     <br><br>
                     <div class="row bg-light">
-                        <div class="col-3 gx-15 bordes">
+                        <div class="col-md-3 gx-15 bordes">
                             <h1 class="text-center">Tapiceria</h1>
                             <h3 class="text-center"></h3>
                             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/2dd079c93e9f24b5833fee5b6542b948c9297d7d/p11.PNG"
