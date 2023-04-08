@@ -86,54 +86,51 @@
             </div>
         </div>
     </div>
-
-    <br>
-    <hr><br>
-
     <div class="row bg-light">
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p.jpg" alt="" class="w-100" height="250">
+        <div class="col-3 bordes">
+            <h1 class="text-center">FormateoPC</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
+                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
+                dolorum tenetur?</p>
+            <img src="../img/formateopc.jpeg" alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Precio</button></center>
+            <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p2.jpeg" alt="" class="w-100" height="250">
+        <div class="col-3 bordes">
+            <h1 text-center>Office licencia</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
+                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
+                dolorum tenetur?</p>
+            <img src="../img/office.jpeg" alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Precio</button></center>
+            <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="250">
+        <div class="col-3 bordes">
+            <h1 text-center>Optimisar y limpiar virus</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
+                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
+                dolorum tenetur?</p>
+            <img src="../img/optimisar.jpeg" alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Precio</button></center>
+            <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Lavado autos exterior</h1>
-            <p>Lavado de autos completos con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p7.jpeg" alt="" class="w-100" height="180">
+        <div class="col-3 bordes">
+            <h1 class="text-center">Limpieza interna</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
+                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
+                dolorum tenetur?</p>
+            <img src="../img/limpiesaint.jpeg" alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Precio</button></center>
-            
+            <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p8.jpeg" alt="" class="w-100" height="250">
+        <div class="col-3 bordes">
+            <h1 class="text-center">Formateo por gmail</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum neque eveniet nihil temporibus iure ipsum
+                deleniti. Pariatur, sint commodi perspiciatis iure minima a voluptate molestias dolor! Pariatur ratione
+                dolorum tenetur?</p>
+            <img src="../img/formateogmail.jpeg" alt="" class="w-100" height="250">
             <br><br>
-            <center><button class="btn btn-dark" type="button">Precio</button></center>
-        </div>
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <p>Tapiceria completa con las herramientas de mas alta gamma para entregar un trabajo completo.</p>
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="250">
-            <br><br>
-            <center><button class="btn btn-dark" type="button">Precio</button></center>
-            
+            <center><button class="btn btn-dark" type="button">Enviar</button></center>
         </div>
 
     </div>
@@ -141,7 +138,7 @@
 
 
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
 </body>
